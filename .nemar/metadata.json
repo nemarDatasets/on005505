@@ -1,7 +1,38 @@
 {
   "version": "2.0",
+  "authors": {
+    "Shirazi, Seyed Yahya": {
+      "orcid": "0000-0001-5557-259X"
+    },
+    "Franco, Alexandre": {
+      "orcid": "0000-0002-1552-1090"
+    },
+    "Hoffmann, Maurício Scopel": {
+      "orcid": "0000-0003-4232-3169",
+      "affiliations": [
+        {
+          "name": "Esper, Nathalia B."
+        }
+      ]
+    },
+    "Esper, Nathalia B.": {
+      "orcid": "0000-0003-3218-9226"
+    },
+    "Truong, Dung": {
+      "orcid": "0000-0003-4540-3551"
+    },
+    "Delorme, Arnaud": {
+      "orcid": "0000-0002-0799-3557"
+    },
+    "Milham, Michael": {
+      "orcid": "0000-0003-3532-1210"
+    },
+    "Makeig, Scott": {
+      "orcid": "0000-0002-9048-8438"
+    }
+  },
   "sizes": [
-    "5.7 MB (5409 files)"
+    "5.7 MB (5410 files)"
   ],
   "formats": [
     ".json",
